@@ -23,7 +23,7 @@ After writing the functionality of the code I first tested the link to insure da
 
 * What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
-I think this project has helped me reinforce some clean coding concepts I had previously learned since code quality was one of the security areas in our diagram. This is always important to remember when working in software because it makes everyones jobs easier when building ontop of eachothers code.
+I think this project has helped me reinforce some clean coding concepts I had previously learned since code quality was one of the security areas in our diagram. This is always important to remember when working in software because it makes everyones jobs easier when building ontop of eachothers code. I also believe I will take a lot of the security concepts with me to other projects and tasks and have more of an eye out for potential risks and all together this will strengthen my code.
 
 * Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
